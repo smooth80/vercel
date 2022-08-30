@@ -12,7 +12,7 @@
     "solid-meta": "^0.27.2",
     "solid-start": "next",
     "solid-start-vercel": "next",
-    "vite": "^2.7.1"
+    "vite": "^2.9.13"
   },
   "engines": {
     "node": ">=14"
