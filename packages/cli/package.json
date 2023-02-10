@@ -133,7 +133,7 @@
     "inquirer": "7.0.4",
     "is-docker": "2.2.1",
     "is-port-reachable": "3.0.0",
-    "is-url": "1.2.2",
+    "is-url": "1.2.3",
     "jaro-winkler": "0.2.8",
     "jsonlines": "0.1.1",
     "load-json-file": "3.0.0",
